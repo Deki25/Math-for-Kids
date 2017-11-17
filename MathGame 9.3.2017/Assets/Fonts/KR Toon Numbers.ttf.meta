@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d626baafc064e33428b79a60aaed37d5
+timeCreated: 1487171547
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KR Toon Numbers
+  fontNames:
+  - KR Toon Numbers
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
